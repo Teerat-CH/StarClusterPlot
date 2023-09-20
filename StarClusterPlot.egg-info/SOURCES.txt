@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+StarClusterPlot/__init__.py
+StarClusterPlot.egg-info/PKG-INFO
+StarClusterPlot.egg-info/SOURCES.txt
+StarClusterPlot.egg-info/dependency_links.txt
+StarClusterPlot.egg-info/requires.txt
+StarClusterPlot.egg-info/top_level.txt

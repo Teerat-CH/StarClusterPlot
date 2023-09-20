@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: StarClusterPlot
+Version: 0.1.9
+Summary: Python package for visualizing star clusters and their Hertzsprung-Russell diagrams
+Home-page: UNKNOWN
+Author: Teerat Chanromyen
+Author-email: teerat.nahm@gmail.com
+License: MIT
+Keywords: Astronomy
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Provides-Extra: dev
+License-File: LICENCE.txt
+
+This is a Python library for visualizing star clusters and their Hertzsprung-Russell diagrams. 
+All stars colors shown in this program are derived from their calculated temperatures.
+The package includes three functions: ClusterVis(), HRDiagram(), and Temp_to_RGB().
+
+Change Log
+==========
+
+0.1.9 (17/08/2023)
+------------------
+- Correct HR-Diagram y axis
+
+0.1.8 (16/08/2023)
+------------------
+- Release Temp_to_RGB function
+
+0.1.7 (3/08/2023)
+-----------------
+- Dedicated version for Streamlit plot
+
+0.1.6 (3/08/2023)
+-----------------
+- Edit return value for Streamlit plot
+
+0.1.5 (3/08/2023)
+-----------------
+- Change plotting method to subplots, Return figure
+
+0.1.4 (3/08/2023)
+-----------------
+- Update optional parameters
+
+0.1.3 (3/08/2023)
+-----------------
+- Update optional parameters
+
+0.1.2 (3/08/2023)
+-----------------
+- Add six optional parameters for the HRDiagram function
+
+0.1.1 (2/08/2023)
+-----------------
+- Fix the out-of-bound RGB value error
+
+0.1.0 (2/08/2023)
+-----------------
+- Initial Release
+
