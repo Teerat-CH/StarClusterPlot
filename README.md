@@ -5,7 +5,7 @@
 The package includes three functions: 
  - ClusterVis()
  - HRDiagram()
- - and Temp_to_RGB()
+ - Temp_to_RGB()
 
 Interactive application and library tutorial can be found [here](https://starclusterplot.streamlit.app/) \
 PyPI page [here](https://pypi.org/project/StarClusterPlot/)
